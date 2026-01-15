@@ -11,6 +11,8 @@ It scans and decodes wallet data, exploring transactions, addresses, and scripts
 >
 > This project is still experimental — no stable release or documentation yet.  
 > Functions, structures, and output format may change frequently.
+> 
+> Check the help (wexplorer -h) to see if there are new functionalities
 
 ---
 
