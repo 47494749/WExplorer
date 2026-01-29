@@ -68,6 +68,13 @@ At the moment, **only Bitcoin wallets are fully decoded**, but the tool already 
   - `wallet.dat`
   - or extracted wallet dumps
 
+## Online functionality (available from 0.16)
+
+To use the online features of this tool, **OpenSSL libraries must be available at runtime**. The required OpenSSL DLLs must be present either in the **system PATH** or in the **current application directory**.
+If OpenSSL is not available, online functionality will be disabled.
+
+OpenSSL for Windows can be downloaded from: https://slproweb.com/products/Win32OpenSSL.html
+
 ---
 
 ## Usage
